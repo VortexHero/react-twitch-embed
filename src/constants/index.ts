@@ -1,9 +1,9 @@
 export const URLS = {
-  TWITCH_EMBED_URL: 'https://embed.twitch.tv/embed/v1.js',
-  TWITCH_CHAT_URL: 'https://www.twitch.tv/embed',
-  TWITCH_CLIP_URL: 'https://clips.twitch.tv/embed',
-  TWITCH_PLAYER_URL: 'https://player.twitch.tv/js/embed/v1.js',
-  TWITCH_PLAYER_NON_INTERACTIVE_URL: 'https://player.twitch.tv'
+  TWITCH_EMBED_URL: '/twitch/embed',
+  TWITCH_CHAT_URL: '/twitch/chat',
+  TWITCH_CLIP_URL: '/twitch/clip',
+  TWITCH_PLAYER_URL: '/twitch/player',
+  TWITCH_PLAYER_NON_INTERACTIVE_URL: '/twitch/player-non-interactive'
 };
 
 export const DEFAULTS = {
