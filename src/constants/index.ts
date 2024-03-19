@@ -1,8 +1,8 @@
 export const URLS = {
-  TWITCH_EMBED_URL: '/twitch/embed',
+  TWITCH_EMBED_URL: '/twitch/embed.js',
   TWITCH_CHAT_URL: '/twitch/chat',
   TWITCH_CLIP_URL: '/twitch/clip',
-  TWITCH_PLAYER_URL: '/twitch/player',
+  TWITCH_PLAYER_URL: '/twitch/player.js',
   TWITCH_PLAYER_NON_INTERACTIVE_URL: '/twitch/player-non-interactive'
 };
 
